@@ -1,0 +1,80 @@
+Mon Feb 04 12:38:58 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:32:48
+Mon Feb 04 12:38:58 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:36:50
+Mon Feb 04 12:38:58 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:40:51
+Mon Feb 04 12:38:58 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:44:52
+Mon Feb 04 12:38:58 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:48:56
+Mon Feb 04 12:38:59 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:52:58
+Mon Feb 04 12:38:59 CLT 2019 - 357464035621678) |1| java.lang.IllegalArgumentException: No enum constant com.oracle.jrockit.jfr.DataType.2019-02-01T13:52:58
+Mon Feb 04 15:08:50 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:50 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:50 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:50 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:51 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:52 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:52 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:52 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:52 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:53 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:54 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:55 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:55 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:55 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:55 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:55 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:55 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:56 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:57 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:57 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:57 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:57 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:57 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:58 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:58 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:58 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:58 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:08:59 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:00 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:01 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 15:09:01 CLT 2019 - Inicio app) java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+Mon Feb 04 16:25:40 CLT 2019 - Inicio app) com.microsoft.sqlserver.jdbc.SQLServerException: La operación solicitada no es compatible en conjuntos de resultados exclusivamente de reenvío.
+Mon Feb 04 16:25:41 CLT 2019 - Inicio app) com.microsoft.sqlserver.jdbc.SQLServerException: La operación solicitada no es compatible en conjuntos de resultados exclusivamente de reenvío.
+Mon Feb 04 16:25:42 CLT 2019 - Inicio app) com.microsoft.sqlserver.jdbc.SQLServerException: La operación solicitada no es compatible en conjuntos de resultados exclusivamente de reenvío.
+Mon Feb 04 16:25:43 CLT 2019 - Inicio app) com.microsoft.sqlserver.jdbc.SQLServerException: La operación solicitada no es compatible en conjuntos de resultados exclusivamente de reenvío.
+Mon Feb 04 16:25:45 CLT 2019 - Inicio app) com.microsoft.sqlserver.jdbc.SQLServerException: La operación solicitada no es compatible en conjuntos de resultados exclusivamente de reenvío.
+Mon Feb 04 16:25:46 CLT 2019 - Inicio app) com.microsoft.sqlserver.jdbc.SQLServerException: La operación solicitada no es compatible en conjuntos de resultados exclusivamente de reenvío.
